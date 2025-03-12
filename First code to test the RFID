@@ -1,4 +1,4 @@
-cpp```
+```cpp
 /**
  * @file stm32_rfid_audio.c
  * @brief Scanner RFID utilisant le MFRC522 et STM32
